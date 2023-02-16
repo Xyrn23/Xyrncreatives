@@ -1,2 +1,1 @@
-# test
-web test
+# A simple website hosted by netlify
